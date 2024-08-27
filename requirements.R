@@ -1,0 +1,7 @@
+install.packages("data.table")
+install.packages("glm")
+install.packages("dplyr")
+install.packages("randomForest")
+install.packages("optparse")
+install.packages("Metrics")
+install.packages("caret")
